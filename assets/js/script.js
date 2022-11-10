@@ -7,3 +7,7 @@ window.onload = function(){
     }
   })
 }
+
+function clickTop(){
+  windows.scrollTo(0, 0)
+}
