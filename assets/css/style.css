@@ -1186,3 +1186,9 @@ header .header {
     padding: 8px;
   }
 }
+
+@media (min-width: 820px) {
+  .menu nav ul {
+    display: flex !important;
+  }
+ }
